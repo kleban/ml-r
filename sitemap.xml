@@ -2,14 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://kleban.github.io/ml-r/index.html</loc>
-    <lastmod>2023-03-19T18:19:19.379Z</lastmod>
+    <lastmod>2023-03-21T07:21:09.163Z</lastmod>
   </url>
   <url>
     <loc>https://kleban.github.io/ml-r/00-intro.html</loc>
-    <lastmod>2023-03-19T18:19:19.383Z</lastmod>
+    <lastmod>2023-03-21T07:21:20.435Z</lastmod>
   </url>
   <url>
     <loc>https://kleban.github.io/ml-r/references.html</loc>
     <lastmod>2023-03-19T18:19:19.383Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/010-intro.html</loc>
+    <lastmod>2023-03-21T07:21:34.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/020-feature-engeneering.html</loc>
+    <lastmod>2023-03-21T07:20:03.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/023-feature-engeneering-woe-binning.html</loc>
+    <lastmod>2023-03-21T07:20:03.436Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/030-supervised-learning.html</loc>
+    <lastmod>2023-03-21T07:20:03.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/031-supervised-learning-linear-regression-1.html</loc>
+    <lastmod>2023-03-21T07:20:03.457Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/032-supervised-learning-linear-regression-2.html</loc>
+    <lastmod>2023-03-21T07:20:03.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/033-supervised-learning-desicion-trees-regression.html</loc>
+    <lastmod>2023-03-21T07:20:03.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/034-supervised-learning-neutal-networks-regression.html</loc>
+    <lastmod>2023-03-21T07:20:03.519Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/035-supervised-learning-logistic-regression.html</loc>
+    <lastmod>2023-03-21T07:20:03.546Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/036-supervised-learning-desicion-trees-classification.html</loc>
+    <lastmod>2023-03-21T07:20:03.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/037-supervised-learning-neural-network-classification.html</loc>
+    <lastmod>2023-03-21T07:20:03.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/040-unsupervised-learning.html</loc>
+    <lastmod>2023-03-21T07:20:03.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/041-unsupervised-learning-clustering-kmeans-1.html</loc>
+    <lastmod>2023-03-21T07:20:03.583Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/042-unsupervised-learning-clustering-kmeans-2.html</loc>
+    <lastmod>2023-03-21T07:20:03.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kleban.github.io/ml-r/043-unsupervised-learning-clustering-kmeans-and-random-forest.html</loc>
+    <lastmod>2023-03-21T07:21:58.571Z</lastmod>
   </url>
 </urlset>
